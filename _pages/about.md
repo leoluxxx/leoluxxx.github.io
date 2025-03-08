@@ -28,6 +28,16 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px;" />
+  <div>
+    <strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du<br>
+    CVPR 2025<br>
+    [<a href="https://leoluxxx.github.io/JamMa-page/">Project page</a>] [<a href="https://arxiv.org/pdf/2503.03437">Paper</a>]
+  </div>
+</div>
+
 
 Service
 ======
