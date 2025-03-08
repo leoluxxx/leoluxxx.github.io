@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaoyong Lu"
+title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Xiaoyong Lu"
 description              : &description "personal description"
