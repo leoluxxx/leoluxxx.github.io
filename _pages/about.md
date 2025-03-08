@@ -9,7 +9,8 @@ redirect_from:
 
 About me
 ======
-I am Xiaoyong Lu (芦晓勇). I am a 3rd-year Ph.D. student at Southeast University, honored to be advised by Prof. [Songlin Du](https://songlin.ac.cn/).
+I am a 3rd-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
+Before joining SEU, I completed my undergraduate education at Nanjing University of Science and Technology (NJUST) under the supervision of Prof. Xuefeng Jiang.
 My research interests lie in 3D vision from multi-view and lightweight networks.
 
 News
@@ -64,7 +65,7 @@ Publications
     <strong>NCTR: Neighborhood Consensus Transformer for Feature Matching</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
     ICIP 2022 Oral<br>
-    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897245">Paper</a>]
+    [<a href="https://github.com/leoluxxx/NCTR">Code</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897245">Paper</a>]
   </div>
 </div>
 
