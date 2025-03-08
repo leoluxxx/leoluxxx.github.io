@@ -21,10 +21,10 @@ Publications
 <div style="display: flex; align-items: center;">
   <img src="/images/jamma.png" alt="JamMa" style="width: 150px; margin-right: 20px;" />
   <div>
-    <p><strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong></p>
-    <p><strong>Xiaoyong Lu</strong>, Songlin Du</p>
-    <p>CVPR 2025</p>
-    <p>[<a href="https://leoluxxx.github.io/JamMa-page/">Project page</a>] [<a href="https://arxiv.org/pdf/2503.03437">Paper</a>]</p>
+    <strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du<br>
+    CVPR 2025<br>
+    [<a href="https://leoluxxx.github.io/JamMa-page/">Project page</a>] [<a href="https://arxiv.org/pdf/2503.03437">Paper</a>]
   </div>
 </div>
 
