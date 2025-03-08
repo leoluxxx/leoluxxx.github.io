@@ -29,12 +29,12 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <img src="/images/rcm.png" alt="RCM" style="height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
-    <strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong><br>
+    <strong>Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
-    CVPR 2025<br>
-    [<a href="https://leoluxxx.github.io/JamMa-page/">Project page</a>] [<a href="https://arxiv.org/pdf/2503.03437">Paper</a>]
+    ECCV 2024<br>
+    [<a href="https://github.com/leoluxxx/RCM">Code</a>] [<a href="https://arxiv.org/pdf/2407.07789">Paper</a>]
   </div>
 </div>
 
