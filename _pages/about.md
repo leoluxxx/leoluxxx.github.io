@@ -38,6 +38,25 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/images/sam.png" alt="SAM" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>Scene-Aware Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Yaping Yan, Tong Wei, Songlin Du<br>
+    ICCV 2023<br>
+    [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Scene-Aware_Feature_Matching_ICCV_2023_paper.pdf">Paper</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/paraformer.png" alt="ParaFormer" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>ParaFormer: Parallel Attention Transformer for Efficient Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Yaping Yan, Bin Kang, Songlin Du<br>
+    AAAI 2023 Oral<br>
+    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25275">Paper</a>]
+  </div>
+</div>
 
 Service
 ======
