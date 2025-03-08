@@ -29,7 +29,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/rcm.png" alt="RCM" style="height: 150px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <img src="/images/rcm.png" alt="RCM" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
     <strong>Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
