@@ -58,6 +58,16 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+  <img src="/images/nctr.png" alt="NCTR" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>NCTR: Neighborhood Consensus Transformer for Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du<br>
+    ICIP 2022 Oral<br>
+    [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897245">Paper</a>]
+  </div>
+</div>
+
 Service
 ======
 - Reviewer of CVPR, AAAI, TCSVT.
