@@ -9,6 +9,18 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D. student at Southeast University, honored to be advised by Prof. [Songlin Du](https://songlin.ac.cn/).
+I am Xiaoyong Lu (芦晓勇). I am a 3rd-year Ph.D. student at Southeast University, honored to be advised by Prof. [Songlin Du](https://songlin.ac.cn/).
+My research interests lie in 3D vision from multi-view and lightweight networks.
 
-I am working on 3D Vision.
+News
+======
+- [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025!
+
+Publications
+======
+- 
+
+
+Service
+======
+- Reviewer of CVPR, AAAI, TCSVT.
