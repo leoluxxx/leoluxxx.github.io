@@ -19,7 +19,7 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center;">
-  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px;" />
+  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px; margin-down: 20px;" />
   <div>
     <strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
@@ -29,7 +29,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px;" />
+  <img src="/images/jamma.png" alt="JamMa" style="height: 150px; margin-right: 20px; margin-down: 20px;" />
   <div>
     <strong>JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
