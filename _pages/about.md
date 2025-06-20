@@ -15,6 +15,7 @@ My research interests lie in 3D vision from multi-view and lightweight networks.
 
 News
 ======
+- [Jun, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 100 ⭐ in github!
 - [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025!
 
 Publications
