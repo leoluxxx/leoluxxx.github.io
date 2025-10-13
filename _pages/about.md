@@ -15,11 +15,22 @@ My research interests lie in 3D vision from multi-view and lightweight networks.
 
 News
 ======
-- [Jun, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 100 ⭐ in github!
-- [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025!
+- [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
+- [Jun, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 100 ⭐ in github.
+- [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
 
 Publications
 ======
+<div style="display: flex; align-items: center;">
+  <img src="/images/rcm_plus.png" alt="RCM+" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>Towards Free-form Local Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du, Yaping Yan, Xiaobo Lu, Takeshi Ikenaga<br>
+    TPAMI 2025<br>
+    [<a href="https://ieeexplore.ieee.org/document/11181225">Paper</a>]
+  </div>
+</div>
+
 <div style="display: flex; align-items: center;">
   <img src="/images/jamma.png" alt="JamMa" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
