@@ -15,8 +15,8 @@ My research interests lie in 3D vision from multi-view and lightweight networks.
 
 News
 ======
+- [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200 ⭐ in github.
 - [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
-- [Jun, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 100 ⭐ in github.
 - [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
 
 Publications
