@@ -72,6 +72,26 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
+  <img src="/images/pcmatcher.png" alt="PCMatcher" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>Parallel Consensus Transformer for Local Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Yuhan Chen, Bin Kang, Songlin Du<br>
+    Pattern Recogn. 2025<br>
+    [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325015687">Paper</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/semmatcher.jpg" alt="SemMatcher" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>SemMatcher: Semantic-aware feature matching with neighborhood consensus</strong><br>
+    Qimin Jiang, <strong>Xiaoyong Lu</strong>, Dong Liang, Songlin Du<br>
+    J. Vis. Commun. Image Represent. 2025<br>
+    [<a href="https://www.sciencedirect.com/science/article/pii/S1047320325002251">Paper</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="/images/nctr.png" alt="NCTR" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
     <strong>NCTR: Neighborhood Consensus Transformer for Feature Matching</strong><br>
