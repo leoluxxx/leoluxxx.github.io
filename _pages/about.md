@@ -82,22 +82,32 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/semmatcher.jpg" alt="SemMatcher" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
-  <div>
-    <strong>SemMatcher: Semantic-aware feature matching with neighborhood consensus</strong><br>
-    Qimin Jiang, <strong>Xiaoyong Lu</strong>, Dong Liang, Songlin Du<br>
-    J. Vis. Commun. Image Represent. 2025<br>
-    [<a href="https://www.sciencedirect.com/science/article/pii/S1047320325002251">Paper</a>]
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
   <img src="/images/nctr.png" alt="NCTR" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
     <strong>NCTR: Neighborhood Consensus Transformer for Feature Matching</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
     ICIP 2022 Oral<br>
     [<a href="https://github.com/leoluxxx/NCTR">Code</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9897245">Paper</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/sceneglue.png" alt="SceneGlue" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation</strong><br>
+    Songlin Du, <strong>Xiaoyong Lu</strong>, Yaping Yan, Guobao Xiao, 	Xiaobo Lu, Takeshi Ikenaga<br>
+    TCSVT 2026<br>
+    [<a href="https://leoluxxx.github.io/">Coming soon</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/semmatcher.jpg" alt="SemMatcher" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>SemMatcher: Semantic-aware feature matching with neighborhood consensus</strong><br>
+    Qimin Jiang, <strong>Xiaoyong Lu</strong>, Dong Liang, Songlin Du<br>
+    J. Vis. Commun. Image Represent. 2025<br>
+    [<a href="https://www.sciencedirect.com/science/article/pii/S1047320325002251">Paper</a>]
   </div>
 </div>
 
