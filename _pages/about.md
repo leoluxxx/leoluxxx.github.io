@@ -97,7 +97,7 @@ Publications
     <strong>SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation</strong><br>
     Songlin Du, <strong>Xiaoyong Lu</strong>, Yaping Yan, Guobao Xiao, 	Xiaobo Lu, Takeshi Ikenaga<br>
     TCSVT 2026<br>
-    [<a href="https://leoluxxx.github.io/">Coming soon</a>]
+    [<a href="https://ieeexplore.ieee.org/document/11483154">Paper</a>]
   </div>
 </div>
 
