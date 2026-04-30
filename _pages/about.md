@@ -9,13 +9,13 @@ redirect_from:
 
 About me
 ======
-I am a 3rd-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
+I am a 4th-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
 Before joining SEU, I completed my undergraduate education at Nanjing University of Science and Technology (NJUST) under the supervision of Prof. Xuefeng Jiang.
 My research interests lie in 3D vision from multi-view and lightweight networks.
 
 News
 ======
-- [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200 ⭐ in github.
+- [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
 - [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
 - [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
 
