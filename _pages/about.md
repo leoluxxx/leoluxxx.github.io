@@ -12,9 +12,11 @@ About me
 I am a 4th-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
 Before joining SEU, I completed my undergraduate education at Nanjing University of Science and Technology (NJUST) under the supervision of Prof. Xuefeng Jiang.
 My research interests lie in 3D vision from multi-view and lightweight networks.
+I am currently seeking internship opportunities in computer vision, 3D vision, and spatial intelligence.
 
 News
 ======
+- [May, 2026] ProMa is accepted at TMM.
 - [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
 - [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
 - [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
@@ -38,6 +40,16 @@ Publications
     <strong>Xiaoyong Lu</strong>, Songlin Du<br>
     CVPR 2025<br>
     [<a href="https://leoluxxx.github.io/JamMa-page/">Project page</a>] [<a href="https://arxiv.org/pdf/2503.03437">Paper</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="/images/proma.png" alt="ProMa" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>Progressive Matchability Guided Hybrid Interaction for Latency-balanced Local Feature Matching</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du, Guobao Xiao, Guanghui Wen<br>
+    TMM 2026<br>
+    [<a href="https://leoluxxx.github.io/">coming soon</a>]
   </div>
 </div>
 
@@ -113,4 +125,4 @@ Publications
 
 Service
 ======
-- Reviewer of CVPR, ICCV, ECCV, AAAI, BMVC, TIP, TCSVT.
+- Reviewer of CVPR, ICCV, NeurIPS, ECCV, AAAI, BMVC, TIP, TCSVT.
