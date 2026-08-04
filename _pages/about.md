@@ -12,7 +12,7 @@ About me
 I am a 4th-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
 Before joining SEU, I completed my undergraduate education at Nanjing University of Science and Technology (NJUST) under the supervision of Prof. Xuefeng Jiang.
 My research interests lie in 3D vision from multi-view and lightweight networks.
-I am currently seeking internship opportunities in computer vision, 3D vision, and spatial intelligence.
+I am currently seeking full-time positions in computer vision and spatial intelligence.
 
 News
 ======
