@@ -16,7 +16,7 @@ I am currently seeking full-time positions in computer vision and spatial intell
 
 News
 ======
-- [May, 2026] ProMa is accepted at TMM.
+- [May, 2026] [ProMa](https://ieeexplore.ieee.org/document/11654540) is accepted at TMM.
 - [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
 - [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
 - [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
@@ -49,7 +49,7 @@ Publications
     <strong>Progressive Matchability Guided Hybrid Interaction for Latency-balanced Local Feature Matching</strong><br>
     <strong>Xiaoyong Lu</strong>, Songlin Du, Guobao Xiao, Guanghui Wen<br>
     TMM 2026<br>
-    [<a href="https://leoluxxx.github.io/">coming soon</a>]
+    [<a href="https://ieeexplore.ieee.org/document/11654540">Paper</a>]
   </div>
 </div>
 
