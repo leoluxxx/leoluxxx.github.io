@@ -16,6 +16,7 @@ I am currently seeking full-time positions in computer vision and spatial intell
 
 News
 ======
+- [Sep, 2026] MoD is accepted at NeurIPS 2026.
 - [May, 2026] [ProMa](https://ieeexplore.ieee.org/document/11654540) is accepted at TMM.
 - [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
 - [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
