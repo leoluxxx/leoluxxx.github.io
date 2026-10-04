@@ -25,6 +25,16 @@ News
 Publications
 ======
 <div style="display: flex; align-items: center;">
+  <img src="/images/mod.png" alt="MoD" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+  <div>
+    <strong>Towards Complementary Keypoint Detection via Mixture of Detectors</strong><br>
+    <strong>Xiaoyong Lu</strong>, Songlin Du, Yaping Yan, Xiaobo Lu, Takeshi Ikenaga<br>
+    NeurIPS 2026<br>
+    [<a href="https://leoluxxx.github.io/">Coming soon</a>]
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
   <img src="/images/rcm_plus.png" alt="RCM+" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
     <strong>Towards Free-form Local Feature Matching</strong><br>
