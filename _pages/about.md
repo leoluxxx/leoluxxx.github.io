@@ -7,24 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+## About me
 I am a 4th-year Ph.D. student at Southeast University (SEU), advised by Prof. [Songlin Du](https://songlin.ac.cn/).
 Before joining SEU, I completed my undergraduate education at Nanjing University of Science and Technology (NJUST) under the supervision of Prof. Xuefeng Jiang.
 My research interests lie in 3D vision from multi-view and lightweight networks.
-I am currently seeking full-time positions in computer vision and spatial intelligence.
 
-News
-======
-- [Oct, 2026] I received the National Scholarship at Southeast University.
-- [Sep, 2026] MoD is accepted at NeurIPS 2026.
-- [May, 2026] [ProMa](https://ieeexplore.ieee.org/document/11654540) is accepted at TMM.
-- [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
-- [Sep, 2025] [RCM+](https://ieeexplore.ieee.org/document/11181225) is accepted at TPAMI.
-- [Mar, 2025] [JamMa](https://leoluxxx.github.io/JamMa-page/) is accepted at CVPR 2025.
+**🔍 Open to full-time positions in Computer Vision & Spatial Intelligence (graduating 2027).**
 
-Publications
-======
+## News
+- **2026.10** 🏅 National Scholarship, Southeast University
+- **2026.09** 📄 MoD accepted at NeurIPS 2026
+- **2026.05** 📄 [ProMa](https://ieeexplore.ieee.org/document/11654540) accepted at TMM
+- **2025.11** ⭐ [JamMa](https://github.com/leoluxxx/JamMa) reached 200+⭐ GitHub stars
+- **2025.09** 📄 [RCM+](https://ieeexplore.ieee.org/document/11181225) accepted at TPAMI
+- **2025.03** 📄 [JamMa](https://leoluxxx.github.io/JamMa-page/) accepted at CVPR 2025
+  
+## Publications
 <div style="display: flex; align-items: center;">
   <img src="/images/mod.png" alt="MoD" style="width: 200px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
   <div>
@@ -135,21 +133,19 @@ Publications
   </div>
 </div>
 
-Service
-======
+## Service
 - Reviewer of CVPR, ICCV, NeurIPS, ECCV, AAAI, BMVC, TIP, TCSVT.
 
 
-Honors & Awards
-======
-Southeast University
+## Honors & Awards
+#### Southeast University
 - **National Scholarship** 
 - **Outstanding Individual in Academic Innovation** *(top 1%)*
 - Doctoral Freshman Scholarship
 - Outstanding Individual in Community Service *(top 1%)*
 - Outstanding Individual in Athletics and Arts *(top 1%)*
 
-Nanjing University of Science and Technology
+#### Nanjing University of Science and Technology
 - **Outstanding Graduate** 
 - **Outstanding Graduation Project**
 - Outstanding Engineer Program 
