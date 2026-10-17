@@ -138,14 +138,14 @@ My research interests lie in 3D vision from multi-view and lightweight networks.
 
 
 ## Honors & Awards
-#### Southeast University
+### Southeast University
 - **National Scholarship** 
 - **Outstanding Individual in Academic Innovation** *(top 1%)*
 - Doctoral Freshman Scholarship
 - Outstanding Individual in Community Service *(top 1%)*
 - Outstanding Individual in Athletics and Arts *(top 1%)*
 
-#### Nanjing University of Science and Technology
+### Nanjing University of Science and Technology
 - **Outstanding Graduate** 
 - **Outstanding Graduation Project**
 - Outstanding Engineer Program 
