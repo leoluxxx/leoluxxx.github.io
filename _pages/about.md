@@ -16,6 +16,7 @@ I am currently seeking full-time positions in computer vision and spatial intell
 
 News
 ======
+- [Oct, 2026] I received the National Scholarship at Southeast University.
 - [Sep, 2026] MoD is accepted at NeurIPS 2026.
 - [May, 2026] [ProMa](https://ieeexplore.ieee.org/document/11654540) is accepted at TMM.
 - [Nov, 2025] [JamMa](https://github.com/leoluxxx/JamMa) got 200+ ⭐ in github.
@@ -137,3 +138,21 @@ Publications
 Service
 ======
 - Reviewer of CVPR, ICCV, NeurIPS, ECCV, AAAI, BMVC, TIP, TCSVT.
+
+
+Honors & Awards
+======
+Southeast University
+- **National Scholarship** 
+- **Outstanding Individual in Academic Innovation** *(top 1%)*
+- Doctoral Freshman Scholarship
+- Outstanding Individual in Community Service *(top 1%)*
+- Outstanding Individual in Athletics and Arts *(top 1%)*
+
+Nanjing University of Science and Technology
+- **Outstanding Graduate** 
+- **Outstanding Graduation Project**
+- Outstanding Engineer Program 
+- First-Class Scholarship
+- Class President
+
